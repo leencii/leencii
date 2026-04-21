@@ -1,44 +1,13 @@
-<h2 align="center">Sup! mi name is Thomas Lencina AKA: "len" ☘︎</h2>
-
-###
+# 💫 About Me:
+Studying in IES an cybersecurity career
 
 <img align="right" height="200" src="https://media.tenor.com/l8w6vOmXJDcAAAAi/mario-64.gif"  />
 
-###
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thomas.lencina/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thomaslencina/) 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=leencii&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=leencii&theme=shadow_red&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=leencii&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/thomas.lencina/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.com/channels/@lenci1111" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://x.com/thomaslencina_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=X&logo=twitter&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UCcd8B1JBCztYsEZoQRownbw" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leencii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=leencii&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leencii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
