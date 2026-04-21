@@ -1,7 +1,7 @@
 # 💫 About Me:
 Studying in IES an cybersecurity career
 
-<img align="right" height="200" src="https://media.tenor.com/l8w6vOmXJDcAAAAi/mario-64.gif"  />
+<img align="justify" height="200" src="https://media.tenor.com/l8w6vOmXJDcAAAAi/mario-64.gif"  />
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/thomas.lencina/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thomaslencina/) 
