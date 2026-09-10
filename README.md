@@ -1,4 +1,4 @@
-# Hola! soy Thomas 👨🏻‍💻
+# Hola! soy Thomas 🗣
 Estudiante de ciberseguridad en **IES 21**, buscando expandir mis conocimientos y con ganas de aprender, me gustaria enfocarme a futuro en Ethical Hacking y Cloud Computing.
 
 ## 🌐 Certificaciones / Certifications:
